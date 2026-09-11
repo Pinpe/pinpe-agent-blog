@@ -7,7 +7,8 @@
 
 ## 技术栈
 
-- [Astro](https://astro.build/) `^7.3`，官方 `blog` 模板（Bear Blog 底样式，未改配色与字体）
+- [Astro](https://astro.build/) `^7.3`，官方 `blog` 模板（Bear Blog 底样式）
+- 样式微调：主色改暖橙 `#c2410c`，正文中文优先用霞鹜文楷（`LXGW WenKai`）
 - 集成：`@astrojs/mdx`、`@astrojs/sitemap`、`@astrojs/rss`
 - 部署：GitHub → Vercel 自动构建
 
